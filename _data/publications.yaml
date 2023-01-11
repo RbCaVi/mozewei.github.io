@@ -4,7 +4,7 @@ papers:
     authors: "Tianao Ge, <b>Zewei Mo</b>, Kan Wu, Xianwei Zhang, Yutong Lu"
     venue: "LCTES 2022"
     paper_pdf: "assets/publications/rollbin_lctes22.pdf"
-    slide: "assets/talk/rollbin_lctes22_talk.pdf"
+    slide: "assets/talk/rollbin_lctes22_slides.pdf"
     image: "assets/figure/rollbin_pub_fig.png"
 
   - title: "moTuner: a compiler-based auto-tuning approach for mixed-precision operators"
@@ -12,6 +12,6 @@ papers:
     venue: "CF 2022"
     paper_pdf: "assets/publications/motuner_cf22.pdf"
     code: "https://github.com/zeweimo/moTuner"
-    slide: "assets/talk/motuner_cf22_talk.pdf"
+    slide: "assets/talk/motuner_cf22_slides.pdf"
     image: "assets/figure/motuner_pub_fig.png"
 

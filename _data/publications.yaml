@@ -7,7 +7,7 @@ papers:
     slide: "assets/talk/rollbin_lctes22_talk.pdf"
     image: "assets/figure/rollbin_pub_fig.png"
 
-  - tile: "moTuner: a compiler-based auto-tuning approach for mixed-precision operators"
+  - title: "moTuner: a compiler-based auto-tuning approach for mixed-precision operators"
     authors: "<b>Zewei Mo</b>, Zejia Lin, Xianwei Zhang, Yutong Lu"
     venue: "CF 2022"
     paper_pdf: "assets/publications/motuner_cf22.pdf"

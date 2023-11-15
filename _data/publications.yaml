@@ -1,5 +1,12 @@
 papers:
 
+  - title: "KeSCo: Compiler-based Kernel Scheduling for Multi-task GPU Applications"
+    authors: "Zejia Lin<sup>#</sup>, <b>Zewei Mo</b><sup>#</sup>, Xuanteng Huang, Xianwei Zhang, Yutong Lu"
+    venue: "ICCD 2023"
+    paper_pdf: "assets/publications/kesco_iccd23.pdf"
+    slide: "assets/talk/kesco_iccd23_slides.pdf"
+    image: "assets/figure/kesco_pub_fig.png"
+
   - title: "RollBin: reducing code-size via loop rerolling at binary level"
     authors: "Tianao Ge, <b>Zewei Mo</b>, Kan Wu, Xianwei Zhang, Yutong Lu"
     venue: "LCTES 2022"

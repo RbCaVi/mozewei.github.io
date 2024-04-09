@@ -3,7 +3,8 @@ papers:
   - title: "FCM: A Fusion-aware Wire Cutting Approach for Measurement-based Quantum Computing (To appear)"
     authors: "<b>Zewei Mo</b>, Yingheng Li, Aditya Pawar, Xulong Tang, Jun Yang and Youtao Zhang"
     venue: "DAC 2024"
-    paper_pdf: "https://mozewei.github.io/index.html#publications"
+    paper_pdf: "assets/publications/fcm_dac24.pdf"
+    poster: "https://mozewei.github.io/index.html#publications"
     slide: "https://mozewei.github.io/index.html#publications"
     image: "assets/figure/blank.png"
 

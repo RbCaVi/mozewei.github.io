@@ -4,9 +4,9 @@ papers:
     authors: "<b>Zewei Mo</b>, Yingheng Li, Aditya Pawar, Xulong Tang, Jun Yang and Youtao Zhang"
     venue: "DAC 2024"
     paper_pdf: "assets/publications/fcm_dac24.pdf"
-    poster: "https://mozewei.github.io/index.html#publications"
+    poster: "assets/talk/fcm_pqi24_poster.pdf"
     slide: "https://mozewei.github.io/index.html#publications"
-    image: "assets/figure/blank.png"
+    image: "assets/figure/fcm_pub_fig.png"
 
   - title: "KeSCo: Compiler-based Kernel Scheduling for Multi-task GPU Applications"
     authors: "Zejia Lin<sup>#</sup>, <b>Zewei Mo</b><sup>#</sup>, Xuanteng Huang, Xianwei Zhang, Yutong Lu"

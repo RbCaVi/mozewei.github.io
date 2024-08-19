@@ -1,6 +1,20 @@
 papers:
 
-  - title: "FCM: A Fusion-aware Wire Cutting Approach for Measurement-based Quantum Computing (To appear)"
+  - title: "FMCC: Flexible Measurement-based Quantum Computation over Cluster State"
+    authors: "Yingheng Li, Aditya Pawar, <b>Zewei Mo</b>, Youtao Zhang, Jun Yang, Xulong Tang"
+    venue: "ASPLOS 2024 (appeared in ASPLOS 2025)"
+    paper_pdf: "https://mozewei.github.io/"
+    slide: "https://mozewei.github.io/"
+    image: "assets/figure/blank.png"
+
+  - title: "QRCC: Evaluating Large Quantum Circuits on Small Quantum Computers through Integrated Qubit Reuse and Circuit Cutting"
+    authors: "Aditya Pawar, Yingheng Li, <b>Zewei Mo</b>, Yanan Guo, Xulong Tang, Youtao Zhang, Jun Yang"
+    venue: "ASPLOS 2024 (appeared in ASPLOS 2025)"
+    paper_pdf: "https://mozewei.github.io/"
+    slide: "https://mozewei.github.io/"
+    image: "assets/figure/blank.png"
+
+  - title: "FCM: A Fusion-aware Wire Cutting Approach for Measurement-based Quantum Computing"
     authors: "<b>Zewei Mo</b>, Yingheng Li, Aditya Pawar, Xulong Tang, Jun Yang and Youtao Zhang"
     venue: "DAC 2024"
     paper_pdf: "assets/publications/fcm_dac24.pdf"
